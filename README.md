@@ -14,10 +14,11 @@ This project is a registration form built with Node.js, Express.js, and MongoDB.
 
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**: JavaScript runtime for the server
 - ![Express.js](https://img.icons8.com/ios-filled/50/000000/express-js.png) **Express.js**: Web framework for Node.js
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**: NoSQL database for storing user data
-- ![Mongoose](https://img.icons8.com/color/48/000000/mongoose.png) **Mongoose**: ODM for MongoDB
-- ![dotenv](https://img.icons8.com/ios-filled/50/000000/env.png) **dotenv**: Environment variable management
-- ![Render](https://img.icons8.com/color/48/000000/cloud.png) **Render**: Platform for deployment
+- ![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png) **MongoDB**: NoSQL database for storing user data
+- ![Mongoose](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mongoose-an-object-data-modeling-library-used-to-enforce-a-schema-for-models-logo-shadow-tal-revivo.png) **Mongoose**: ODM for MongoDB
+- ![dotenv](https://img.icons8.com/color/48/000000/filetype-env.png) **dotenv**: Environment variable management
+- ![Render](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-render-a-modern-application-development-platform-with-an-incredible-developer-experience-logo-shadow-tal-revivo.png) **Render**: Platform for deployment
+
 
 ## 🚀 Installation
 
