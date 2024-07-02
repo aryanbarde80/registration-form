@@ -10,14 +10,23 @@ This project is a registration form built with Node.js, Express.js, and MongoDB.
 - MongoDB database integration
 - Deployment on Render
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - Node.js: JavaScript runtime for the server  
 - Express.js: Web framework for Node.js  
 - MongoDB: NoSQL database for storing user data  
 - Mongoose: ODM for MongoDB  
 - dotenv: Environment variable management  
-- Render: Platform for deployment  
+- Render: Platform for deployment
+
+### Backend
+
+- ![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/80px-Node.js_logo.svg.png) **Node.js**: JavaScript runtime for the server  
+- ![Express.js](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/80px-Expressjs.png) **Express.js**: Web framework for Node.js  
+- ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/80px-MongoDB_Logo.svg.png) **MongoDB**: NoSQL database for storing user data  
+- ![Mongoose](https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Mongoose_logo.svg/80px-Mongoose_logo.svg.png) **Mongoose**: ODM for MongoDB  
+- ![dotenv](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Environment_variables_logo.png/80px-Environment_variables_logo.png) **dotenv**: Environment variable management  
+- ![Render](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Render.com_logo.svg/80px-Render.com_logo.svg.png) **Render**: Platform for deployment  
 
 
 ## 🚀 Installation
