@@ -19,6 +19,10 @@ This project is a registration form built with Node.js, Express.js, and MongoDB.
 - dotenv: Environment variable management  
 - Render: Platform for deployment
 
+## 🌟 Project Demo
+
+Check out the live demo: https://registration-form-5xsw.onrender.com/
+
 ## 🚀 Installation
 
 To get the project up and running locally, follow these steps:
