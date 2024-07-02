@@ -1,0 +1,19 @@
+1. npm init -y ->> npm is node package manager with the help of which we can intsall packages and libraries and y means yes for all the formalities it asks for.
+
+2. npm i express body-parser mongoose dotenv  ->> Installations
+
+3. node index.js ->> To run our code
+
+4. Till this we wrote js code and made a .env empty file.
+
+5. Now adding up html pages.
+
+6. Now signup to mongodb.com with our account.
+
+7. atlas project0 create cluster
+
+8. connect
+
+9. npm i mongodb
+
+10. now further code of js.
