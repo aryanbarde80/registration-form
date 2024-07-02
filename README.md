@@ -18,6 +18,8 @@ This project is a registration form built with Node.js, Express.js, and MongoDB.
 - Mongoose: ODM(Object-Document Mapper) for MongoDB  
 - dotenv: Environment variable management  
 - Render: Platform for deployment
+- body-parser: Middleware to parse incoming request bodies
+- Bootstrap: Front-end framework for responsive design
 
 ## 🌟 Project Demo
 
@@ -67,6 +69,14 @@ This project is deployed on Render. To deploy your own instance:
 1. **Create a Render account**: If you don't have one, sign up at [Render](https://render.com).
 2. **Create a new Web Service**: Connect your GitHub repository and follow the deployment instructions.
 3. **Set Environment Variables**: Add the environment variables `PORT`, `MONGODB_USERNAME`, and `MONGODB_PASSWORD` in the Render dashboard.
+
+## 📁 Project Structure
+
+- `index.js`: Main server file
+- `pages/`:
+- `index.html`: Registration form page
+- `success.html`: Success page
+- `error.html`: Error page
 
 ## 📄 License
 
