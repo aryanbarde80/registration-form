@@ -19,6 +19,13 @@ This project is a registration form built with Node.js, Express.js, and MongoDB.
 - ![dotenv](https://img.icons8.com/ios-filled/50/000000/env.png) **dotenv**: Environment variable management
 - ![Render](https://img.icons8.com/ios-filled/50/000000/cloud.png) **Render**: Platform for deployment
 
+![Node.js](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png)
+![Express.js](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
+![MongoDB](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
+![Mongoose](https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png)
+![dotenv](https://miro.medium.com/max/480/1*GHx4F6NNVPX_Fhd_wlDKZQ.png)
+![Render](https://render.com/images/render-logo.svg)
+
 
 ## 🚀 Installation
 
