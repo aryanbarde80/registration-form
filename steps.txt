@@ -17,3 +17,31 @@
 9. npm i mongodb
 
 10. now further code of js.
+
+11. render.com signup
+
+12. goto webservice 
+
+13. connect github
+
+14. authorise render
+
+15. install
+
+16. connect your repo and give your website a name
+
+17. choose any region
+
+18. main
+
+19. runtime ->> node
+
+20. Build command ->> $npm install
+
+21. start command ->> $node index.js
+
+22. create
+
+23. now throws error so go to environment and add environment variable and add key and value from env save.
+
+24. deploy again clear build cache and manual deploy.
